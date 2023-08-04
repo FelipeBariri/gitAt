@@ -35,10 +35,12 @@ img {
 }
 .principal>button {
     margin-top: 5px;
-    padding: 6px;
-    border-radius: 10px;
-    box-shadow: 7px 5px gray;
 }
 .fundo {
     margin-top: 15px;
+}
+.imagem {
+    padding: 6px;
+    border-radius: 10px;
+    box-shadow: 7px 5px gray;
 }
